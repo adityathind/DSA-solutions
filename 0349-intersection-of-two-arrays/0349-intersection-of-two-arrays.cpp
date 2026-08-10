@@ -11,6 +11,7 @@ public:
                 if ( find(nums3.begin(),nums3.end(),nums1[i]) == nums3.end()) {
                     nums3.push_back(nums1[i]);
                 }
+                break;
             }
         }
         }
