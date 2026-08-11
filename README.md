@@ -10,6 +10,7 @@ Leetcode problems solving
 | [0011-container-with-most-water](https://github.com/adityathind/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
 | [1672-richest-customer-wealth](https://github.com/adityathind/DSA-solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ Leetcode problems solving
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityathind/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -37,12 +39,18 @@ Leetcode problems solving
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityathind/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityathind/DSA-solutions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
