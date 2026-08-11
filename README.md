@@ -8,6 +8,7 @@ Leetcode problems solving
 | ------- |
 | [0001-two-sum](https://github.com/adityathind/DSA-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityathind/DSA-solutions/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
@@ -38,6 +39,7 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityathind/DSA-solutions/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -48,6 +50,7 @@ Leetcode problems solving
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Timsort
 |  |
