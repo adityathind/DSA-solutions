@@ -37,6 +37,7 @@ Leetcode problems solving
 | [0151-reverse-words-in-a-string](https://github.com/adityathind/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityathind/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adityathind/DSA-solutions/tree/master/0392-is-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/adityathind/DSA-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Matrix
 |  |
 | ------- |
@@ -53,11 +54,13 @@ Leetcode problems solving
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/adityathind/DSA-solutions/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
+| [2938-separate-black-and-white-balls](https://github.com/adityathind/DSA-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityathind/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
+| [2938-separate-black-and-white-balls](https://github.com/adityathind/DSA-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
