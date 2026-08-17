@@ -12,6 +12,7 @@ Leetcode problems solving
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
 | [1672-richest-customer-wealth](https://github.com/adityathind/DSA-solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -41,6 +42,7 @@ Leetcode problems solving
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/adityathind/DSA-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -90,4 +92,8 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityathind/DSA-solutions/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
