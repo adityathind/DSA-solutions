@@ -9,6 +9,7 @@ Leetcode problems solving
 | [0001-two-sum](https://github.com/adityathind/DSA-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityathind/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityathind/DSA-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/adityathind/DSA-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
@@ -20,6 +21,7 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityathind/DSA-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/adityathind/DSA-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityathind/DSA-solutions/tree/master/0242-valid-anagram) |
@@ -28,6 +30,7 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityathind/DSA-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/adityathind/DSA-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityathind/DSA-solutions/tree/master/0242-valid-anagram) |
@@ -36,6 +39,7 @@ Leetcode problems solving
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adityathind/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adityathind/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityathind/DSA-solutions/tree/master/0242-valid-anagram) |
