@@ -12,6 +12,7 @@ Leetcode problems solving
 | [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/adityathind/DSA-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
@@ -74,6 +75,7 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Timsort
 |  |
@@ -103,4 +105,12 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
