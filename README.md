@@ -14,6 +14,7 @@ Leetcode problems solving
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/adityathind/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
@@ -25,6 +26,7 @@ Leetcode problems solving
 | [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/adityathind/DSA-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/adityathind/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adityathind/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -109,6 +111,7 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/adityathind/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
