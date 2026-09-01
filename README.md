@@ -23,6 +23,7 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityathind/DSA-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityathind/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/adityathind/DSA-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
@@ -42,6 +43,7 @@ Leetcode problems solving
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityathind/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adityathind/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adityathind/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -110,6 +112,7 @@ Leetcode problems solving
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityathind/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityathind/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
