@@ -18,6 +18,7 @@ Leetcode problems solving
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityathind/DSA-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1672-richest-customer-wealth](https://github.com/adityathind/DSA-solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ Leetcode problems solving
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityathind/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityathind/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityathind/DSA-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
