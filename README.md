@@ -10,6 +10,7 @@ Leetcode problems solving
 | [0011-container-with-most-water](https://github.com/adityathind/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityathind/DSA-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adityathind/DSA-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -54,6 +55,7 @@ Leetcode problems solving
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/adityathind/DSA-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -109,6 +111,7 @@ Leetcode problems solving
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
