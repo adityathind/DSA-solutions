@@ -1,50 +1,40 @@
 class Solution {
-public:
-     bool isValid ( string s1, string window) {
-            if (s1.length() != window.length()){
-                return false;
-            }
-
-            int freq[26] = {0} ;
-
-            for ( char c : s1 ) {
-                freq[c - 'a']++;
-            }
-            for ( char c : window ) {
-                freq[c - 'a']--;
-            }
-            for ( int i = 0; i < 26; i++){
-                if (freq[i] != 0)
-                return false;
-            }
-            return true;
-        }
-        
+public:        
     bool checkInclusion(string s1, string s2) {
-       if (s1.length() > s2.length()) {
-    return false;
-}
+        if (s1.length() > s2.length()) {
+            return false;
+        }
+
+        int freq1[26] = {0};
+        int freq2[26] = {0};
+
+        for ( char c : s1) {
+            freq1[c - 'a']++;
+        }
+
         int left = 0;
-        int right = s1.length() - 1;
-        string window = "" ;
+        for ( int right = 0; right < s2.length(); right++) {
+            freq2[ s2[right] - 'a']++;
 
-       for ( int i = 0; i <= right; i++) {
-            window.push_back(s2[i]);
-       }
-
-        while ( right < s2.length()) {
-            if ( isValid (s1,window)) {
+            if ( right - left + 1 > s1.length() ) {
+                freq2[s2[left] - 'a']--;
+                left++;
+            }
+            bool same = true;
+            
+            for ( int i = 0; i < 26; i++) {
+                if (freq1[i] != freq2[i]) {
+                    same = false;
+                    break;
+                }
+            }
+            
+            if (same) {
                 return true;
             }
-            left++;
-            right++;
-           
-           if ( right  < s2.length()) {
-                window.push_back(s2[right]);
-                window.erase(window.begin());
-           }
 
         }
         return false;
+       
     }
 };
