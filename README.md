@@ -32,6 +32,7 @@ Leetcode problems solving
 | [0219-contains-duplicate-ii](https://github.com/adityathind/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adityathind/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityathind/DSA-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Leetcode problems solving
 | [0151-reverse-words-in-a-string](https://github.com/adityathind/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityathind/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adityathind/DSA-solutions/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityathind/DSA-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2938-separate-black-and-white-balls](https://github.com/adityathind/DSA-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Matrix
 |  |
@@ -119,6 +121,7 @@ Leetcode problems solving
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityathind/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/adityathind/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityathind/DSA-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adityathind/DSA-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
