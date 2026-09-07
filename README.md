@@ -59,6 +59,7 @@ Leetcode problems solving
 | [0392-is-subsequence](https://github.com/adityathind/DSA-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityathind/DSA-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityathind/DSA-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/adityathind/DSA-solutions/tree/master/0647-palindromic-substrings) |
 | [2938-separate-black-and-white-balls](https://github.com/adityathind/DSA-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Matrix
 |  |
@@ -79,6 +80,7 @@ Leetcode problems solving
 | [0349-intersection-of-two-arrays](https://github.com/adityathind/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/adityathind/DSA-solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/adityathind/DSA-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/adityathind/DSA-solutions/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/adityathind/DSA-solutions/tree/master/0881-boats-to-save-people) |
 | [2938-separate-black-and-white-balls](https://github.com/adityathind/DSA-solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
@@ -113,6 +115,7 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/adityathind/DSA-solutions/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/adityathind/DSA-solutions/tree/master/0647-palindromic-substrings) |
 ## Quicksort
 |  |
 | ------- |
