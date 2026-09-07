@@ -11,8 +11,10 @@ public:
                 i++;
             if (i == n)
                 break;
-            while (i < n && s[i] != ' ') {
-                s[right++] = s[i++];
+            while ( i < n && s[i] != ' ') {
+                s[right] = s[i];
+                right++;
+                i++;
             }
             reverse(s.begin() + left, s.begin() + right);
             s[right++] = ' ';
