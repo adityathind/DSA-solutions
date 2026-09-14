@@ -11,6 +11,7 @@ Leetcode problems solving
 | [0015-3sum](https://github.com/adityathind/DSA-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityathind/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityathind/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/adityathind/DSA-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adityathind/DSA-solutions/tree/master/0075-sort-colors) |
@@ -32,6 +33,7 @@ Leetcode problems solving
 | ------- |
 | [0001-two-sum](https://github.com/adityathind/DSA-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityathind/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/adityathind/DSA-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adityathind/DSA-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/adityathind/DSA-solutions/tree/master/0202-happy-number) |
@@ -68,6 +70,7 @@ Leetcode problems solving
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/adityathind/DSA-solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/adityathind/DSA-solutions/tree/master/1672-richest-customer-wealth) |
