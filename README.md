@@ -16,6 +16,7 @@ Leetcode problems solving
 | [0054-spiral-matrix](https://github.com/adityathind/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adityathind/DSA-solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/adityathind/DSA-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/adityathind/DSA-solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/adityathind/DSA-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityathind/DSA-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityathind/DSA-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -36,6 +37,7 @@ Leetcode problems solving
 | [0036-valid-sudoku](https://github.com/adityathind/DSA-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityathind/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adityathind/DSA-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/adityathind/DSA-solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/adityathind/DSA-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adityathind/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityathind/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -113,6 +115,7 @@ Leetcode problems solving
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/adityathind/DSA-solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/adityathind/DSA-solutions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -154,4 +157,16 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adityathind/DSA-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adityathind/DSA-solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adityathind/DSA-solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adityathind/DSA-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
