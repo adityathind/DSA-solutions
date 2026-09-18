@@ -169,4 +169,12 @@ Leetcode problems solving
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/adityathind/DSA-solutions/tree/master/0149-max-points-on-a-line) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adityathind/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adityathind/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
