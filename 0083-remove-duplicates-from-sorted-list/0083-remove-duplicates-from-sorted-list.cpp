@@ -18,8 +18,8 @@ public:
             while ( curr-> next !=nullptr && curr->val == curr->next->val ) {
                 curr-> next = curr->next->next;
             } 
-            ListNode* next = curr-> next;
-            curr = next;
+            
+            curr = curr->next;
         }
         return head;
     }
