@@ -11,44 +11,37 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-
+        
         ListNode dummy(0);
         dummy.next = head;
+        ListNode* preGroup= &dummy;
 
-        ListNode* groupPrev = &dummy;
+        while( preGroup->next!= nullptr ) {
 
-        while (true) {
-
-            // Find kth node
-            ListNode* kth = groupPrev;
-
-            for (int i = 0; i < k; i++) {
-                kth = kth->next;
-
+            ListNode* kth = preGroup;
+            //checking for k nodes 
+            for(int i = 0; i < k; i++) {
+                kth= kth->next;
                 if (kth == nullptr)
-                    return dummy.next;
+                return dummy.next;
             }
-
-            ListNode* groupNext = kth->next;
-
-            // Reverse the group
-            ListNode* prev = groupNext;
-            ListNode* curr = groupPrev->next;
-
-            while (curr != groupNext) {
+            ListNode* nextgroup = kth->next;
+            ListNode* prev = kth->next;
+            ListNode* curr = preGroup->next;
+            
+            //reversing 
+            while ( curr != nextgroup) {
                 ListNode* next = curr->next;
                 curr->next = prev;
                 prev = curr;
                 curr = next;
             }
 
-            // Save old first node.
-            // It is now the last node of the reversed group.
-            ListNode* temp = groupPrev->next;
-
-            groupPrev->next = kth;
-
-            groupPrev = temp;
+            ListNode* temp = preGroup->next;
+            preGroup->next = kth;
+            preGroup = temp;   
         }
+
+        return dummy.next;  
     }
 };
